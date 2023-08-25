@@ -4,7 +4,7 @@ import Module_UtilsForObjectMeasurement as utils
 
 ########################
 webcam = False
-path = 'Resources/20230816_145313.jpg'
+path = 'card_img.jpg'
 cap = cv2.VideoCapture(0)
 cap.set(10, 160)
 cap.set(3, 640)
